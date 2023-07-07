@@ -1,4 +1,4 @@
-import { orders } from "../Data/Data"
+import { orders } from "../data/Data"
 import Layout from "../components/Layout"
 import Order from '../components/Order'
 
