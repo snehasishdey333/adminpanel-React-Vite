@@ -1,0 +1,41 @@
+// .sliderItem:hover{
+//     color:#40128B;
+//     background-color: white;
+//     transition-duration: 0.2s;
+// }
+// .sliderItem{
+    
+    
+// }
+
+.activeLinks{
+    margin-left: 20px;
+    width: 100%;
+    padding: 5px 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    cursor: pointer;
+    color:#40128B;
+    background-color: white;
+    transition-duration: 0.2s;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-right: 8px;
+    margin-top: 16px;
+    gap:8px;
+}
+.inactiveLinks{
+    padding: 5px 15px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    cursor: pointer;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-top: 16px;
+    color: white;
+    margin-left: 16px;
+    gap:8px;
+}
+
