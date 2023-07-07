@@ -1,4 +1,4 @@
-import { orders } from "../Data/Data"
+import { orders } from "../data/Data"
 import Order from "./Order"
 
 
